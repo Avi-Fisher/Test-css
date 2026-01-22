@@ -1,0 +1,113 @@
+* {
+
+    box-sizing: border-box;
+
+}
+
+.header-left {
+    background-color: rgb(252, 252, 252);
+    display: inline;
+}
+
+#logo {
+    display: inline;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+header a {
+    text-align: center;
+    display: inline;
+    /* margin-top: 4px;
+    margin-left: 20px; */
+}
+
+#down-arrow {
+    display: inline;
+    height: 20px;
+}
+
+.header-menu a {
+    display: inline;
+    color: gray;
+    margin-left: 40px;
+}
+
+#about {
+    display: inline;
+    margin-left: 600px;
+}
+
+#log-in {
+    background-color: black;
+    color: white;
+    padding: 5px 15px; 
+    text-align: center;
+    text-decoration: none;
+    display: inline; 
+    margin-left: 1500px;
+    border-radius: 150px;
+}
+
+#sing-up {
+    display: inline;
+    background-color: white;
+    color: black;
+    padding: 5px 15px; 
+    text-align: center;
+    text-decoration: none;
+    margin-left: 5px;
+    border-radius: 150px;
+    border-style: solid;
+
+}
+
+#help {
+    display: inline;
+    background-color: white;
+    color: black;
+    padding: 5px 15px; 
+    text-align: center;
+    text-decoration: none;
+    margin-left: 5px;
+    border-radius: 150px;
+    border-style: solid;
+
+}
+
+h1 {
+    text-align: center;
+    margin-top: 250px;
+}
+
+.input-box {
+    margin-top: 20px;
+    margin-left: 650px;
+    display: inline-block;
+    background-color: white;
+    color: grey;
+    padding: 40px 80px; 
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50px;
+    border-style: solid;
+    background-position: ;
+    
+}
+
+.input-box input {
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+  /* background-image: url('searchicon.png'); */
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+}
+
+
+/* Position */
+/* Z-index */
